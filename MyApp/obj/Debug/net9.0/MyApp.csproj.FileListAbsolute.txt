@@ -1,0 +1,14 @@
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\bin\Debug\net9.0\MyApp.exe
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\bin\Debug\net9.0\MyApp.deps.json
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\bin\Debug\net9.0\MyApp.dll
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\bin\Debug\net9.0\MyApp.pdb
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.dll
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.pdb
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\Users\QSS\Desktop\Projects\C#\OOP\MyApp\obj\Debug\net9.0\ref\MyApp.dll
